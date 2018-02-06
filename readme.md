@@ -1,6 +1,6 @@
 # React / Flux Boilerplate (ES5)
 
-A simple boilerplate used form my own personal education of the React and Flux environment based on the PluralSight course.
+A simple boilerplate used for my own personal education of the React and Flux environment based on the PluralSight course.
 
 My goal is to build this into a more substantial foundation for framing React-based projects.
 
